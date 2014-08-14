@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexCamera" version="3.0.2" build="2">
+         <info>build 2:修改相机拍照数量限制</info>
+        <info>build 1:1.自定义camera，已解决使用系统camera内存不足应用被杀死的bug</info>
+	    
+        <build>build 0:camera插件基础版</build>
+
+    </plugin>
+</uexplugins>
